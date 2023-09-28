@@ -52,8 +52,11 @@ Create a domains.txt file in the root directory.
 Add each domain you want to scan on a new line.
 
 Example:
+
 example.com
+
 test.com
+
 domain.org
 
 
