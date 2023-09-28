@@ -41,7 +41,7 @@ pip install playwright
 
 
 ```
-playwright install
+python3 -m playwright install
 ```
 
 # Usage
