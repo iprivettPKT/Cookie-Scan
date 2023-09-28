@@ -32,10 +32,10 @@ source venv/bin/activate
 
 # Install Required Python Libraries
 
+
 ```
 pip install playwright
 ```
-
 
 # Install Playwright Drivers
 
