@@ -16,8 +16,12 @@ Step-by-Step Installation:
 Clone the Repository
 
 
+```
+
 git clone https://path-to-your-repo/cookie-scan.git
 cd cookie-scan
+
+```
 
 Replace path-to-your-repo with your actual repository path if you're hosting this on a platform like GitHub.
 
