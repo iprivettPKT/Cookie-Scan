@@ -16,40 +16,31 @@ Step-by-Step Installation:
 Clone the Repository
 
 
-```
 git clone https://path-to-your-repo/cookie-scan.git
 cd cookie-scan
-```
 
 Replace path-to-your-repo with your actual repository path if you're hosting this on a platform like GitHub.
 
 # Set Up a Virtual Environment (Recommended)
 
-```
 python3 -m venv venv
 source venv/bin/activate
-```
 
 # Install Required Python Libraries
 
-```
 pip install playwright
-```
+
 
 # Install Playwright Drivers
 
-```
 playwright install
-```
 
 # Running Cookie Scan
 
 Place a domains.txt file in the root directory with one domain per line. Then, run the following command:
 
 
-```
 python cookiescan.py
-```
 
 The tool will process each domain and display the associated cookies in a structured format.
 
@@ -61,17 +52,15 @@ Create a domains.txt file in the root directory.
 Add each domain you want to scan on a new line.
 
 Example:
-```
 example.com
 test.com
 domain.org
-```
+
 
 # Run Cookie Scan
 
-```
 python cookiescan.py
-```
+
 
 Review Results
 
