@@ -44,16 +44,6 @@ pip install playwright
 playwright install
 ```
 
-# Running Cookie Scan
-
-Place a domains.txt file in the root directory with one domain per line. Then, run the following command:
-
-```
-python3 cookiescan.py
-```
-
-The tool will process each domain and display the associated cookies in a structured format.
-
 # Usage
 
 ## Prepare Domains List
@@ -63,17 +53,17 @@ Add each domain you want to scan on a new line.
 
 Example:
 
+```
 example.com
-
 test.com
-
 domain.org
-
+```
 
 # Run Cookie Scan
 
+```
 python cookiescan.py
-
+```
 
 Review Results
 
