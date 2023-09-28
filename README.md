@@ -48,8 +48,9 @@ playwright install
 
 Place a domains.txt file in the root directory with one domain per line. Then, run the following command:
 
-
-python cookiescan.py
+```
+python3 cookiescan.py
+```
 
 The tool will process each domain and display the associated cookies in a structured format.
 
