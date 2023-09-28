@@ -25,8 +25,10 @@ Replace path-to-your-repo with your actual repository path if you're hosting thi
 
 # Set Up a Virtual Environment (Recommended)
 
+```
 python3 -m venv venv
 source venv/bin/activate
+```
 
 # Install Required Python Libraries
 
