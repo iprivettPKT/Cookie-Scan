@@ -17,7 +17,7 @@ Clone the Repository
 
 
 ```
-git clone https://path-to-your-repo/cookie-scan.git
+git clone https://iprivettPKT/cookie-scan.git
 cd cookie-scan
 ```
 
